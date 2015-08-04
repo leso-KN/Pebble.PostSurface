@@ -15,7 +15,7 @@
                 "type": "png"
             },
 			{
-                "file": "fonts/segoeui.png",
+                "file": "fonts/segoeui.ttf",
                 "name": "RESOURCE_ID_FONT_SEGOE_UI_48",
                 "type": "ttf"
             }
