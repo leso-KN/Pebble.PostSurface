@@ -7,7 +7,14 @@
     "longName": "Leso PostSurface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+	    {
+                "file": "images/Pebble PostSurface Icon.png",
+                "menuIcon": true,
+                "name": "Icon",
+                "type": "png"
+            }
+	    ]
     },
     "sdkVersion": "2",
     "shortName": "PostSurface",
