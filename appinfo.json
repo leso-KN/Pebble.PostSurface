@@ -8,11 +8,16 @@
     "projectType": "native",
     "resources": {
         "media": [
-	    {
+	        {
                 "file": "images/Pebble PostSurface Icon.png",
                 "menuIcon": true,
                 "name": "Icon",
                 "type": "png"
+            },
+			{
+                "file": "fonts/segoeui.png",
+                "name": "RESOURCE_ID_FONT_SEGOE_UI_48",
+                "type": "ttf"
             }
 	    ]
     },
