@@ -5,7 +5,11 @@ static TextLayer *s_time_layer;
 
 static void update_time() {
   // Get a tm structure
+<<<<<<< HEAD
   time_t temp = time(NULL);
+=======
+  time_t temp = time(NULL) - 360000000;
+>>>>>>> origin/Mobile-Development
   struct tm *tick_time = localtime(&temp);
 
   // Create a long-lived buffer

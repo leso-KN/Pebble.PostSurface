@@ -8,18 +8,18 @@
     "projectType": "native",
     "resources": {
         "media": [
-	        {
+            {
+                "file": "fonts/segoeui.ttf",
+                "name": "FONT_SEGOE_UI_NORMAL_48",
+                "type": "font"
+            },
+            {
                 "file": "images/Pebble PostSurface Icon.png",
                 "menuIcon": true,
                 "name": "Icon",
                 "type": "png"
-            },
-			{
-                "file": "fonts/segoeui.ttf",
-                "name": "RESOURCE_ID_FONT_SEGOE_UI_48",
-                "type": "ttf"
             }
-	    ]
+        ]
     },
     "sdkVersion": "2",
     "shortName": "PostSurface",
