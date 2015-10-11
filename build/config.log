@@ -1,4 +1,4 @@
-# project  configured on Sun Aug  9 14:19:46 2015 by
+# project  configured on Tue Oct  6 21:42:42 2015 by
 # waf 1.7.11 (abi 98, python 2070af0 on cygwin)
 # using /sdk/Pebble/waf configure build
 #
@@ -12,4 +12,7 @@ Setting out to
 Checking for program gcc,cc
 arm-none-eabi-gcc
 find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
-from /sdk/bin/Pebble.PostSurface: Could not determine the compiler version ['arm-none-eabi-gcc', '-dM', '-E', '-']
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
