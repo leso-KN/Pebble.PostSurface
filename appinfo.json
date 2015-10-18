@@ -9,15 +9,20 @@
     "resources": {
         "media": [
             {
-                "file": "fonts/segoeui.ttf",
-                "name": "FONT_SEGOE_UI_NORMAL_48",
-                "type": "font"
-            },
-            {
                 "file": "images/Pebble PostSurface Icon.png",
                 "menuIcon": true,
                 "name": "Icon",
                 "type": "png"
+            },
+            {
+                "file": "fonts/segoeui.ttf",
+                "name": "FONT_SEGOE_UI_NORMAL_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/segoeui.ttf",
+                "name": "FONT_SEGOE_UI_NORMAL_48",
+                "type": "font"
             }
         ]
     },
