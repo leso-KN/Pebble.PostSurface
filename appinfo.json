@@ -1,10 +1,7 @@
 {
     "appKeys": {},
-    "capabilities": [
-        ""
-    ],
     "companyName": "Lesosoftware",
-    "longName": "Leso PostSurface",
+    "longName": "PostSurface",
     "projectType": "native",
     "resources": {
         "media": [
@@ -16,7 +13,7 @@
             },
             {
                 "file": "fonts/segoeui.ttf",
-                "name": "FONT_SEGOE_UI_NORMAL_10",
+                "name": "FONT_SEGOE_UI_NORMAL_14",
                 "type": "font"
             },
             {
